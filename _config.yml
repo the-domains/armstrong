@@ -1,0 +1,14 @@
+layout_spectrum: 0.9147778088226914
+typography_spectrum: 0.3492095856927335
+color:
+  brandStrength: 0.280575689394027
+  lightness: 0.6533577858936042
+  saturation: 0.9926453921943903
+  rhythmicContrast: 0.5738470696378499
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: Armstrong
